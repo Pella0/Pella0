@@ -16,4 +16,10 @@
 Hhtml5 | Css3  | Javascript | React | Nodejs | Express |Git
 Scrum/agile
 
+Projet 1 : jeu de "memory" | JavaScript | Vanilla Html Css => https://github.com/Twiggui/Projet-1-Memory-game                    
+
+Projet 2 : jeu "Battle Card" | REACT JS, Css, utilisation d'API, méthode Scrum => https://github.com/WildCodeSchool/lyon-js-sept-2020-g5
+
+Projet 3 : Oufgarden |REACT JS, Nodejs ,Css, utilisation d'API, méthode Scrum.  Front(back coming soon] => https://github.com/WildCodeSchool/lyon-js-sept2020-p3-oufgarden-front-office
+
 
