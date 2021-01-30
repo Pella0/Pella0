@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Pella0/Pella0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 🌍 I’m from Lyon (FRANCE)
 
 🌱 I’m currently learning ReactJs, NodeJS, ExpressJS, Vanilla Js and more..
@@ -20,4 +16,4 @@
 Hhtml5 | Css3  | Javascript | React | Nodejs | Express |Git
 Scrum/agile
 
--->
+
