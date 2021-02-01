@@ -1,24 +1,17 @@
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td font-weight: "bold" >Hi i'm Julien 👋</td>
-    <td><img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="600px" height="400px"></td>
-  </tr>
-</table>
-</br>
+<h2>Hi ! i'm Julien 👋</h2>
+<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="600px" height="400px">
 
+- 🌍 I’m from **Lyon (FRANCE)**
 
+- 🌱 I’m currently learning **ReactJs, NodeJS, ExpressJS, Vanilla Js and more..**
 
-🌍 I’m from **Lyon (FRANCE)**
+- 🤝 I’m looking for tips on **how to become web developper**
 
-🌱 I’m currently learning **ReactJs, NodeJS, ExpressJS, Vanilla Js and more..**
+- 👨‍🦱 💻 All of my projects will be available soon
 
-🤝 I’m looking for tips on **how to become web developper**
+- 💬 Let's talk about **web development, JavaScript, design, UI/UX and more...**
 
-👨‍🦱 💻 All of my projects will be available soon
-
-💬 Let's talk about **web development, JavaScript, design, UI/UX and more...**
-
-📫 How to reach me **pellattiero.julien@gmail.com**
+- 📫 How to reach me **pellattiero.julien@gmail.com**
 
 <p align="center" >
 </br>
