@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif)
 
 🌍 I’m from Lyon (FRANCE)
 
