@@ -1,17 +1,17 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="40%" height="40%">
+<img align="center" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="60%" height="50%">
 
-🌍 I’m from Lyon (FRANCE)
+🌍 I’m from **Lyon (FRANCE)**
 
-🌱 I’m currently learning ReactJs, NodeJS, ExpressJS, Vanilla Js and more..
+🌱 I’m currently learning **ReactJs, NodeJS, ExpressJS, Vanilla Js and more..**
 
-🤝 I’m looking for tips on how to become web developper
+🤝 I’m looking for tips on **how to become web developper**
 
 👨‍🦱 💻 All of my projects will be available soon
 
-💬 Let's talk about web development, JavaScript, design, UI/UX and more...
+💬 Let's talk about **web development, JavaScript, design, UI/UX and more...**
 
-📫 How to reach me pellattiero.julien@gmail.com
+📫 How to reach me **pellattiero.julien@gmail.com**
 
 **Hard Skills :**
 
