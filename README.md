@@ -17,13 +17,18 @@
 </br>
 <img src="./logo/logo.png" width="50%" height="50%">
 </p>
+</br>
+<p align="center" >
 Projet 1 : Memory Game | JavaScript | Vanilla Html Css
+  </br>
 => https://github.com/Twiggui/Projet-1-Memory-game                    
-
+</br>
 Projet 2 : Battle Card Heroes | REACT JS, Css, utilisation d'API, méthode Scrum 
+</br>
 => https://github.com/WildCodeSchool/lyon-js-sept-2020-g5
 
 Projet 3 : Oufgarden |REACT JS, Nodejs ,Css, utilisation d'API, méthode Scrum.  
+</br>
 Front(back coming soon) => https://github.com/WildCodeSchool/lyon-js-sept2020-p3-oufgarden-front-office
-
+</p>
 
