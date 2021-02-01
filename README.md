@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif)
+<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="40%" height="40%">
 
 🌍 I’m from Lyon (FRANCE)
 
@@ -14,8 +14,8 @@
 📫 How to reach me pellattiero.julien@gmail.com
 
 **Hard Skills :**
-Hhtml5 | Css3  | Javascript | React | Nodejs | Express |Git
-Scrum/agile
+
+<img src="./logo/logo.png" width="50%" height="50%">
 
 Projet 1 : Memory Game | JavaScript | Vanilla Html Css
 => https://github.com/Twiggui/Projet-1-Memory-game                    
