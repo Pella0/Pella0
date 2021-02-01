@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="900px" height="600px">
+<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="700px" height="500px">
 
 🌍 I’m from **Lyon (FRANCE)**
 
@@ -15,20 +15,26 @@
 
 <p align="center" >
 </br>
-<img src="./logo/logo.png" width="50%" height="50%">
+<img src="./logo/logo.png" width="70%" height="70%">
 </p>
 </br>
 <p align="center" >
-Projet 1 : Memory Game | JavaScript | Vanilla Html Css
-  </br>
+Projet 1 : 
+</br>
+Memory Game | JavaScript | Vanilla Html Css
+</br>
 => https://github.com/Twiggui/Projet-1-Memory-game                    
 </br>
-Projet 2 : Battle Card Heroes | REACT JS, Css, utilisation d'API, méthode Scrum 
+Projet 2 :
+</br>
+Battle Card Heroes | REACT JS, Css, utilisation d'API, méthode Scrum 
 </br>
 => https://github.com/WildCodeSchool/lyon-js-sept-2020-g5
-
-Projet 3 : Oufgarden |REACT JS, Nodejs ,Css, utilisation d'API, méthode Scrum.  
 </br>
-Front(back coming soon) => https://github.com/WildCodeSchool/lyon-js-sept2020-p3-oufgarden-front-office
+Projet 3 : 
+</br>
+Oufgarden |REACT JS, Nodejs ,Css, utilisation d'API, méthode Scrum.  
+</br>
+Front (back coming soon) => https://github.com/WildCodeSchool/lyon-js-sept2020-p3-oufgarden-front-office
 </p>
 
