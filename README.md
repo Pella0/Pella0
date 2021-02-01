@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi i'm Julien 👋
 <img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="700px" height="500px">
 
 🌍 I’m from **Lyon (FRANCE)**
