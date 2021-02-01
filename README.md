@@ -1,10 +1,13 @@
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td font-weight: "bold" >Hi i'm Julien 👋</td>
     <td><img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="600px" height="400px"></td>
   </tr>
 </table>
 </br>
+
+
+
 🌍 I’m from **Lyon (FRANCE)**
 
 🌱 I’m currently learning **ReactJs, NodeJS, ExpressJS, Vanilla Js and more..**
