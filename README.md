@@ -1,6 +1,10 @@
-### Hi i'm Julien 👋
-<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="700px" height="500px">
-
+<table>
+  <tr>
+    <td font-weight: "bold" >Hi i'm Julien 👋</td>
+    <td><img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="600px" height="400px"></td>
+  </tr>
+</table>
+</br>
 🌍 I’m from **Lyon (FRANCE)**
 
 🌱 I’m currently learning **ReactJs, NodeJS, ExpressJS, Vanilla Js and more..**
