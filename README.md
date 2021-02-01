@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="80%" height="30%">
+<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="900px" height="600px">
 
 🌍 I’m from **Lyon (FRANCE)**
 
@@ -13,10 +13,10 @@
 
 📫 How to reach me **pellattiero.julien@gmail.com**
 
-**Hard Skills :**
-
+<p align="center" >
+</br>
 <img src="./logo/logo.png" width="50%" height="50%">
-
+</p>
 Projet 1 : Memory Game | JavaScript | Vanilla Html Css
 => https://github.com/Twiggui/Projet-1-Memory-game                    
 
