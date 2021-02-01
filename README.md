@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="60%" height="50%">
+<img align="center" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="80%" height="30%">
 
 🌍 I’m from **Lyon (FRANCE)**
 
