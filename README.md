@@ -3,7 +3,7 @@
 
 - 🌍 I’m from **Lyon (FRANCE)**
 
-- 🌱 I’m currently learning **ReactJs, NodeJS, ExpressJS, Vanilla Js and more..**
+- 🌱 I’m currently learning **ReactJs, NodeJS, VueJs 3, ExpressJS, Vanilla Js and more..**
 
 - 🤝 I’m looking for tips on **how to become web developper**
 
