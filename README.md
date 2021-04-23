@@ -23,13 +23,17 @@ Projet 1 :
 </br>
 Memory Game | JavaScript | Vanilla Html Css
 </br>
-=> https://github.com/Twiggui/Projet-1-Memory-game                    
+=>
+https://pella0.github.io/Memory-game/
+https://github.com/Twiggui/Projet-1-Memory-game                    
 </br>
 Projet 2 :
 </br>
 Battle Card Heroes | REACT JS, Css, utilisation d'API, méthode Scrum 
 </br>
-=> https://github.com/WildCodeSchool/lyon-js-sept-2020-g5
+=> 
+https://wild-clash.netlify.app/
+https://github.com/WildCodeSchool/lyon-js-sept-2020-g5
 </br>
 Projet 3 : 
 </br>
