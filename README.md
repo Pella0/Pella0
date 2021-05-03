@@ -15,6 +15,10 @@
 
 <p align="center" >
 </br>
+Portefolio :
+</br>
+Coming soon => Vue Js | Vue X | Ionic | Strapi | API | Css | html
+</br>
 <img src="./logo/logo.png" width="70%" height="70%">
 </p>
 </br>
