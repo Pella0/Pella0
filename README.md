@@ -39,6 +39,6 @@ Projet 3 :
 </br>
 Oufgarden |REACT JS, Nodejs ,Css, utilisation d'API, méthode Scrum.  
 </br>
-Front (back coming soon) => https://github.com/WildCodeSchool/lyon-js-sept2020-p3-oufgarden-front-office
+Front => https://github.com/WildCodeSchool/lyon-js-sept2020-p3-oufgarden-front-office
 </p>
 
